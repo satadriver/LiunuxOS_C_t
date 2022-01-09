@@ -1,0 +1,4 @@
+﻿    正在创建库 D:\vsproject\LiunuxOS_C_t\Release\main.lib 和对象 D:\vsproject\LiunuxOS_C_t\Release\main.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  main.vcxproj -> D:\vsproject\LiunuxOS_C_t\Release\main.dll
+  main.vcxproj -> D:\vsproject\LiunuxOS_C_t\Release\main.pdb (Full PDB)

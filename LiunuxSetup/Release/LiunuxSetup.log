@@ -1,0 +1,13 @@
+﻿  DeviceWriter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+  FileOper.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+main.cpp(66): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+  正在生成代码...
+  LiunuxSetup.vcxproj -> D:\vsproject\LiunuxOS_C_t\Release\LiunuxSetup.exe
+  LiunuxSetup.vcxproj -> D:\vsproject\LiunuxOS_C_t\Release\LiunuxSetup.pdb (Full PDB)

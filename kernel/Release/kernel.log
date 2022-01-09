@@ -1,0 +1,100 @@
+﻿  atapi.cpp
+  cmosAlarm.cpp
+  cmosTimer.cpp
+  coprocessor.cpp
+  debugger.cpp
+  descriptor.cpp
+  dosProcess.cpp
+  exception.cpp
+  FAT32.cpp
+fat32\FAT32.cpp(30): warning C4101: “szshow”: 未引用的局部变量
+fat32\FAT32.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
+fat32\FAT32.cpp(276): warning C4018: “>=”: 有符号/无符号不匹配
+fat32\FAT32.cpp(308): warning C4018: “>=”: 有符号/无符号不匹配
+  FAT32Utils.cpp
+  Fat32File.cpp
+  FileUtils.cpp
+  file.cpp
+  floppy.cpp
+  gdi.cpp
+gdi.cpp(44): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+gdi.cpp(92): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+gdi.cpp(99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  ios9660.cpp
+  hardware.cpp
+  ListEntry.cpp
+  math.cpp
+math.cpp(39): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+math.cpp(74): warning C4305: “初始化”: 从“double”到“float”截断
+math.cpp(75): warning C4305: “初始化”: 从“double”到“float”截断
+math.cpp(76): warning C4305: “初始化”: 从“double”到“float”截断
+math.cpp(77): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+math.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+math.cpp(82): warning C4005: “PI”: 宏重定义
+  d:\vsproject\liunuxos_c_t\kernel\math.h(5): note: 参见“PI”的前一个定义
+math.cpp(87): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+math.cpp(89): warning C4305: “-=”: 从“double”到“float”截断
+math.cpp(109): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  memory.cpp
+memory.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+memory.cpp(84): warning C4018: “>=”: 有符号/无符号不匹配
+memory.cpp(24): warning C4101: “szout”: 未引用的局部变量
+memory.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+memory.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+memory.cpp(161): warning C4101: “szout”: 未引用的局部变量
+  正在生成代码...
+  正在编译...
+  ntfs.cpp
+  ntfsFile.cpp
+NTFS\ntfsFile.cpp(269): warning C4018: “>=”: 有符号/无符号不匹配
+NTFS\ntfsFile.cpp(409): warning C4018: “>=”: 有符号/无符号不匹配
+  page.cpp
+page.cpp(99): warning C4018: “<=”: 有符号/无符号不匹配
+  PEresource.cpp
+  peVirtual.cpp
+  rs232.cpp
+  screenUtils.cpp
+  satadriver.cpp
+  kernel.cpp
+kernel.cpp(85): warning C4101: “szout”: 未引用的局部变量
+  keyboard.cpp
+  mouse.cpp
+mouse.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+mouse.cpp(198): warning C4018: “<”: 有符号/无符号不匹配
+mouse.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+mouse.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+mouse.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+mouse.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+  pci.cpp
+  pe.cpp
+  sectorReader.cpp
+  servicesProc.cpp
+servicesProc.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+  slab.cpp
+  sbPlay.cpp
+  speaker.cpp
+  system.cpp
+  systemTimer.cpp
+  正在生成代码...
+  正在编译...
+  task.cpp
+  Thread.cpp
+Thread.cpp(39): warning C4101: “szout”: 未引用的局部变量
+  process.cpp
+  Utils.cpp
+  v86.cpp
+  video.cpp
+video.cpp(1020): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+video.cpp(1026): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+video.cpp(1058): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+video.cpp(1059): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+video.cpp(1064): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+video.cpp(1080): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+video.cpp(1081): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+video.cpp(1091): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+video.cpp(1094): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  window.cpp
+  正在生成代码...
+    正在创建库 D:\vsproject\LiunuxOS_C_t\Release\kernel.lib 和对象 D:\vsproject\LiunuxOS_C_t\Release\kernel.exp
+  kernel.vcxproj -> D:\vsproject\LiunuxOS_C_t\Release\kernel.dll
+  kernel.vcxproj -> D:\vsproject\LiunuxOS_C_t\Release\kernel.pdb (Full PDB)
